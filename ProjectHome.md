@@ -1,0 +1,1 @@
+Math Balloons is an android application which is (based on entertainment) a game used to improve mathematical ability of users. By using this project one can increase their interest towards math and can also improve small calculations with greater speed. No one can be bored while playing this game as it contains balloons which has mathematical expressions on them.
